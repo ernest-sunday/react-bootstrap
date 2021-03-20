@@ -1,0 +1,14 @@
+@import './components/imageEffect/imageEffect.scss';
+
+$body-bg: rgb(177, 45, 159);
+$body-color: #111;
+
+$theme-colors: (
+  "primary": #00d962,
+  "danger": #ff4136
+);
+
+// Bootstrap and its default variables
+@import "node_modules/bootstrap/scss/bootstrap";
+
+
